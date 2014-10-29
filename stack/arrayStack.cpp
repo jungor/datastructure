@@ -1,6 +1,6 @@
 //In file arratStack.cpp
 //Created by Junjie Li, 2014-10-29;
-//E-mial: 287150625@qq.com
+//E-mail: 287150625@qq.com
 
 
 #include "arrayStack.h"
