@@ -2,3 +2,5 @@
 *.out
 *.gch
 *~
+[mM]akefile
+nbproject/
