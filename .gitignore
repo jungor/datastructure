@@ -2,5 +2,8 @@
 *.out
 *.gch
 *~
+<<<<<<< HEAD
 [mM]akefile
 nbproject/
+=======
+>>>>>>> 73da71c1330c0821284ba1c2228563bcbf098b48
